@@ -1,0 +1,7 @@
+jupyterlab_myst
+pydot
+pysindy
+torch-lr-finder
+gplearn
+gpflow
+tf-keras
